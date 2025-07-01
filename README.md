@@ -1,6 +1,5 @@
 <h1 align="center">Hello!</h1>
 
-### :smiley_cat: Meowhat?
 </br>
   <p align="center">Visitors (Start from July 1, 2025)
 <br>

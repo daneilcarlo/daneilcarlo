@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
 
 </br>
-  <p align="center">Visitors (Start from July 1, 2025)
+  <p align="center">Tracking Visitors since July 1, 2025
 <br>
     
   <img src="[https://count.getloli.com/@:dackydeyb?name=%3Adackydeyb&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto](https://count.getloli.com/@counter?name=counter&theme=booru-mjg&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)"/>
